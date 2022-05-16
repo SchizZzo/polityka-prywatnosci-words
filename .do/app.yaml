@@ -1,0 +1,8 @@
+name: polityka-prywatnosci-words
+static_sites:
+- environment_slug: html
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: SchizZzo/polityka-prywatnosci-words
+  name: polityka-prywatnosci-words
